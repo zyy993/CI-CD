@@ -1,14 +1,8 @@
-using System;
-
-class Program
+static void Greet()
 {
-    static void Main(string[] args)
-    {
-        Greet();
-    }
-
-    static void Greet()
-    {
-        Console.WriteLine("Greetings from branch2");
-    }
+<<<<<<< HEAD
+    Console.WriteLine("Hello from branch1!");
+=======
+    Console.WriteLine("Greetings from branch2!");
+>>>>>>> branch2
 }
