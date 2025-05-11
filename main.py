@@ -1,1 +1,0 @@
-print("CI/CD demo project")
